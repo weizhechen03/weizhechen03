@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=star-night-rain)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=star-night-rain)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=star-night-rain&left_color=green&right_color=red)
+
